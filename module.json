@@ -1,0 +1,32 @@
+{
+    "id": "anarchy-manuel-los-brutos",
+    "name": "anarchy-manuel-los-brutos",
+    "title": "Shadowrun Anarchy Le manuel by Los Brutos",
+    "description": "",
+    "version": "10.0.0",
+    "authors": [{
+            "name": "Los Brutos"
+        }
+    ],
+    "minimumCoreVersion": "10",
+    "compatibleCoreVersion": "10",
+    "compatibility": {
+        "minimum": 10,
+        "verified": "10.290"
+    },
+    "url": "",
+    "manifest": "",
+    "download": "",
+    "scripts": [],
+    "esmodules": [],
+    "styles": [],
+    "languages": [],
+    "packs": [{
+            "label": "Manuel SR Anarchy",
+            "type": "JournalEntry",
+            "name": "shadowrun-anarchy-manual",
+            "path": "./packs/shadowrun-anarchy-manual.db",
+            "system": "anarchy"
+        }
+    ]
+}
