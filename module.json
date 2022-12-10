@@ -22,10 +22,10 @@
     "styles": [],
     "languages": [],
     "packs": [{
-            "label": "Manuel SR Anarchy",
+            "label": "Manuel SR Anarchy (FR)",
             "type": "JournalEntry",
-            "name": "shadowrun-anarchy-manual",
-            "path": "./packs/shadowrun-anarchy-manual.db",
+            "name": "shadowrun-anarchy-manual-fr",
+            "path": "./packs/shadowrun-anarchy-manual-fr.db",
             "system": "anarchy"
         }
     ]
